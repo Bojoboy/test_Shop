@@ -6,6 +6,9 @@ h1, h2, h3, h4 {
 p {
     font-family: Quattrocento Sans, SansSerif, "Phetsarath OT";
 }
+h4 {
+  color: rgb(245,60,97);
+}
 .imgContainer {
   position: relative;
   max-width: 800px;
